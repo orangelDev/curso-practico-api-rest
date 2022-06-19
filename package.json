@@ -1,0 +1,19 @@
+{
+  "name": "curso-practico-api-rest",
+  "version": "1.0.0",
+  "description": "Curso Practico de Consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orangelDev/curso-practico-api-rest.git"
+  },
+  "author": "Orangel Brito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orangelDev/curso-practico-api-rest/issues"
+  },
+  "homepage": "https://github.com/orangelDev/curso-practico-api-rest#readme"
+}
